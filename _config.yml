@@ -1,0 +1,11 @@
+#document settings
+title: Document Title Here
+description: Office of Management and Budgets
+url: http://project-open-data.github.com/Appendix
+repo_url: https://github.com/project-open-data/Appendix
+
+# default build settings for running locally, no need to edit
+server: auto
+safe: true
+pymgemnts: true
+auto: true
