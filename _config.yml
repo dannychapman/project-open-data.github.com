@@ -1,8 +1,15 @@
 #document settings
+<<<<<<< HEAD
 title: Open Data Appendix
 description: Office of Management and Budgets
 url: http://project-open-data.github.com/
 repo_url: https://github.com/project-open-data/project-open-data.github.com
+=======
+title: Document Title Here
+description: Document Description
+url: http://path-to-the-github-pages-version
+repo_url: http://github.com/path-to-the-github-repo
+>>>>>>> d8b7fb9c668244f1c33ff8a46030eeec6c894f22
 
 # default build settings for running locally, no need to edit
 server: auto
