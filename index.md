@@ -3,9 +3,6 @@ permalink: /index.html
 layout: home
 ---
 
-Open Data Appendix
-==================
-
 1. Open Data Principles - http://project-open-data.github.com/open-data-principles/
    The standard set of open data principles for the United States Government.
 
