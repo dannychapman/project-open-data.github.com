@@ -55,6 +55,7 @@ This section is a list of ready to use solutions or tools that will help agencie
 3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler)
     NEEDS README
 
+
 #4. Tools / Checklists
 ---------------------
 This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
@@ -68,6 +69,22 @@ This section contains programatic tools, resources and or checklists to help pro
 3-4 Open Data Catalog Guidelines - NEED LINK
 
 3-5 Example RFP Language - NEED LINK
+
+#5. Case Studies
+---------------
+Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
+
+5-1 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/)
+
+5-2 [Department of Labor Case Study](http://project-open-data.github.com/Labor_OpenData_CaseStudy/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
+
+5-3 Technical Design Examples - NEED LINK
+
+5-4 Internal Enterprise Data Inventory - NEED LINK
+
+5-5 Effective Coordination Case Study - NEED LINK
+
+5-5 Future Department Case Study - NEED LINK
 
 
 
