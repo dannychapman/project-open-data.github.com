@@ -41,6 +41,22 @@ This section is a list of definitions and principles used to guide the policy.
 2-8 Open Licenses - NEED LINK
 
 
+#3. Solutions 
+-------------
+This section is a list of ready to use solutions or tools that will help agencies jump start their open efforts.  Some of these are real implementable coded solutions, some are more descriptive.  In either case these were developed to significantly reduce the barrier to implementing open data at your agency.  We made these with the intent of being able to a) taking the tool off the shelf and implementing and b) by placing them on github encouraging a community to form up make these tools better, add tools, and add value to our collective open efforts.
+
+3-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases.
+
+3-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.
+
+3-3 Spatial Search - NEED LINK - An example of an open method for implementing spatial search against stored geography in a database.
+
+3-4 [Kickstarter](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
+
+3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler)
+    NEEDS README
+
+
 <ul id="github-widget" data-type="repos" data-org="project-open-data" data-limit="100">&nbsp;</ul>
 
 <a href="http://github.com/project-open-data/">View all appendices</a> (and source).
