@@ -23,9 +23,9 @@ This Appendix was purposefully developed as gitHub pages so that real collaborat
 ---------------
 This section is a list of definitions and principles used to guide the policy.
 
-2-1 - Open Standards - needs Link - The United States Government standard definition for open standards.
+2-1 [Open data Principles](http://project-open-data.github.com/open-data-principles/) - The standard set of open data principles for the United States Government.
 
-2-2 [Open data Principles](http://project-open-data.github.com/open-data-principles/) - The standard set of open data principles for the United States Government.
+2-2 [Open Standards](http://project-open-data.github.com/open-standards/) - The United States Government standard definition for open standards.
 
 2-3 [Open Data Glossary](http://project-open-data.github.com/glossary/) - The glossary of all things open.
 
