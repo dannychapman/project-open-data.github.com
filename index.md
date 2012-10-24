@@ -18,6 +18,7 @@ Despite this progress, vast amounts of government data are still locked in inter
 
 This Appendix was purposefully developed as gitHub pages so that real collaboration and input could help us make our open data policy better.  Please suggest enhancements by editing the content here.  We fully intent to make this a living collaboration for continued open data.
 
+
 2. Definitions
 ---------------
 This section is a list of definitions and principles used to guide the policy.
