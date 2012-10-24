@@ -5,7 +5,7 @@ layout: home
 
 #1. Background
 -------------
-The federal government needs to  manage its data as the asset it really is; an open asset for every American just like roads or natural resources. The intent is that this policy is a broad government wide approach to ensure federal information is collected, managed and published in such a way as to reduce barrier to access by itself, other agencies and the public.  Open, means there is no barrier to consumption of an information asset.  
+The federal government needs to  manage its data as the asset it really is; an open asset for every American just like roads or natural resources. The intent is that this policy is a broad government wide approach to ensure federal information is collected, managed, processed and published in such a way as to reduce barrier to access by itself, other agencies and the public.  Open means there is no barrier to consumption of an information asset.  
 
 From financial statistics to agriculture production and from human health to air quality, the Federal Government collects and produces large amount of data.  In today’s digital society, government data has become an essential part of daily life – everyday Americans obtain weather information before they leave home and rely on data from the Global Positioning System (GPS) when they get on the road.  Just as more and more private companies consider data as a corporate asset, the Federal Government must view government data as a national asset.  Towards this end, the Federal Government launched Data.gov in 2009 to publish agency data sets, and today more than 2,500 data sets are available for download.
 
@@ -57,13 +57,13 @@ This section contains programatic tools, resources and or checklists to help pro
 
 4-1 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer
 
-3-2 Data Release Checklist - NEED LINK
+4-2 Data Release Checklist - NEED LINK
 
-3-3 Data Collection Form Validator - NEED LINK
+4-3 Data Collection Form Validator - NEED LINK
 
-3-4 Open Data Catalog Guidelines - NEED LINK
+4-4 Open Data Catalog Guidelines - NEED LINK
 
-3-5 Example RFP Language - NEED LINK
+4-5 Example RFP Language - NEED LINK
 
 #5. Case Studies
 ---------------
