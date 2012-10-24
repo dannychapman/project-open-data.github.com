@@ -1,22 +1,21 @@
-Jekyll Template
-==========================
+Appendix
+========
 
-A collaborative template for publishing resources on GitHub
+Project Open Data Master Appendix
 
-How to Use
-----------
+Problem this Solves
+-------------------
+Technology moves much faster than policy ever could.  Often when writing policy for technology, agencies are stuck w/ outdated methods as soon as they publish new policies.
 
-1. Fork or clone
-2. Update site name and URL in `_config.yml`
-3. Place content in `index.md` as markdown
-4. (optionally) create additional pages following the format of `index.md` 
+How this Project Solves this Problem
+------------------------------------
+This Appendix is meant to be a living document so that collaboration in the open data ecosystem is fostered and the continual update of technology pieces that affect update can happen on a more rapid pace.
 
-Dependencies
-------------
+Files:
+------
+1. `index.md` - content containing the basics of APIs
+2. all other files - web serving files
 
-Jekyll or GitHub Pages
-
-License
--------
-
-MIT
+Where You Come In
+-----------------
+Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here.   
