@@ -21,13 +21,21 @@ This Appendix was purposefully developed as gitHub pages so that real collaborat
 2. Definitions
 ---------------
 This section is a list of definitions and principles used to guide the policy.
+
 2.1 Open Standards - needs Link - The United States Government standard definition for open standards.
+
 2.2 [Open data Principles](http://project-open-data.github.com/open-data-principles/) - The standard set of open data principles for the United States Government.
+
 2.3 [Open Data Glossary](http://project-open-data.github.com/glossary/) - The glossary of all things open.	
+
 2.4 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interface's (API)
+
 2.5 [Metadata for harvestable file](https://github.com/project-open-data/vocab.data.gov) - NEED READM
+
 2.6 [Common Core Metadata](https://github.com/project-open-data/dataset-schema) - Example bare-bones schema for describing government datasets both public and private. Used to prototype Kickstart.
+
 2.7 Extensible Metadata Descriptions - NEED LINK	
+
 2.8 Open Licenses - NEED LINK
 	
 
