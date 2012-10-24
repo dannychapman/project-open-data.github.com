@@ -3,11 +3,6 @@ permalink: /index.html
 layout: home
 ---
 
-
-Open Data Appendix
-==================
-
-
 #1. Background
 -------------
 The federal government needs to  manage its data as the asset it really is; an open asset for every American just like roads or natural resources. The intent is that this policy is a broad government wide approach to ensure federal information is collected, managed and published in such a way as to reduce barrier to access by itself, other agencies and the public.  Open, means there is no barrier to consumption of an information asset.  
@@ -50,7 +45,7 @@ This section is a list of ready to use solutions or tools that will help agencie
 
 3-3 Spatial Search - NEED LINK - An example of an open method for implementing spatial search against stored geography in a database.
 
-3-4 [Kickstarter](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
+3-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
 
 3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler)
     NEEDS README
