@@ -8,7 +8,7 @@ Open Data Appendix
 ==================
 
 
-1. Background
+#1. Background
 -------------
 
 The federal government needs to  manage its data as the asset it really is; an open asset for every American just like roads or natural resources. The intent is that this policy is a broad government wide approach to ensure federal information is collected, managed and published in such a way as to reduce barrier to access by itself, other agencies and the public.  Open, means there is no barrier to consumption of an information asset.  
@@ -22,7 +22,6 @@ This Appendix was purposefully developed as gitHub pages so that real collaborat
 
 2. Definitions
 ---------------
-
 This section is a list of definitions and principles used to guide the policy.
 
 	2.1 Open Standards - needs Link - The United States Government standard definition for open standards.
