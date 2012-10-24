@@ -3,10 +3,6 @@ permalink: /index.html
 layout: home
 ---
 
----
-permalink: /index.html
-layout: home
----
 
 Open Data Appendix
 ==================
