@@ -34,6 +34,8 @@ This section is a list of definitions and principles used to guide the policy.
 
 2-8 Open Licenses - NEED LINK
 
+2-9 [/Data Guidance](http://project-open-data.github.com/slash-data-guidance/) - The specific guidance for publishing an agency.gov/data page.
+
 
 #3. Solutions 
 -------------
