@@ -85,4 +85,4 @@ Case studies of novel or best practices from agencies who are leading in open da
 
 
 
-<a href="http://github.com/project-open-data/">View all appendices</a> (and source).
+**For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
