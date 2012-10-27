@@ -45,7 +45,7 @@ This section is a list of ready to use solutions or tools that will help agencie
 
 3-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.
 
-3-3 Spatial Search - NEED LINK - An example of an open method for implementing spatial search against stored geography in a database.
+3-3 [Spatial Search](https://github.com/project-open-data/SpatialSearch) - A RESTful API that allows the user to query geographic entities by latitude and longitude, and extract data.
 
 3-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
 
