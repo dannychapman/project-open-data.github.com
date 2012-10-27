@@ -34,7 +34,6 @@ This section is a list of definitions and principles used to guide the policy.
 
 2-8 Open Licenses - NEED LINK
 
-2-9 [/Data Guidance](http://project-open-data.github.com/slash-data-guidance/) - The specific guidance for publishing an agency.gov/data page.
 
 
 #3. Solutions 
@@ -62,12 +61,13 @@ This section contains programatic tools, resources and or checklists to help pro
 
 4-3 Data Collection Form Validator - NEED LINK
 
-4-4 Open Data Catalog Guidelines - NEED LINK
+4-4 [/Data Guidance](http://project-open-data.github.com/slash-data-guidance/) - The specific guidance for publishing an agency.gov/data page.
 
 4-5 Example RFP Language - NEED LINK
 
+
 #5. Case Studies
----------------
+----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
 5-1 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/)
