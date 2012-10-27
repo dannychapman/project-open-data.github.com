@@ -49,8 +49,7 @@ This section is a list of ready to use solutions or tools that will help agencie
 
 3-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
 
-3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler)
-    NEEDS README
+3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developers to use browser-based forms and modern web standards to facilitate the collection of information.
 
 
 #4. Tools / Checklists
