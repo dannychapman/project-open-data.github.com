@@ -32,7 +32,7 @@ This section is a list of definitions and principles used to guide the policy.
 
 2-7 Extensible Metadata Descriptions - NEED LINK
 
-2-8 Open Licenses - NEED LINK
+2-8 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The United States Government standard definition for open licenses.
 
 
 
