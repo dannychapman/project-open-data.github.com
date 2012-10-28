@@ -26,13 +26,9 @@ This section is a list of definitions and principles used to guide the policy.
 
 2-4 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interface's (API)
 
-2-5 [Metadata for harvestable file](https://github.com/project-open-data/vocab.data.gov) - NEED README
+2-5 [Common Core Metadata](https://github.com/project-open-data/data-catalog) - The canonical description of the schema used to list agency datasets and APIs as hosted at agency.gov/data.
 
-2-6 [Common Core Metadata](https://github.com/project-open-data/dataset-schema) - Example bare-bones schema for describing government datasets both public and private. Used to prototype Kickstart.
-
-2-7 Extensible Metadata Descriptions - NEED LINK
-
-2-8 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The United States Government standard definition for open licenses.
+2-6 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The United States Government standard definition for open licenses.
 
 
 
