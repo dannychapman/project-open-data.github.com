@@ -80,7 +80,7 @@ Case studies of novel or best practices from agencies who are leading in open da
 
 5-5 Effective Coordination Case Study - NEED LINK
 
-5-5 Future Department Case Study - NEED LINK
+5-5 [Future Department Case Study](http://project-open-data.github.com/Future_CaseStudy/)
 
 
 
