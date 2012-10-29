@@ -57,7 +57,7 @@ This section contains programatic tools, resources and or checklists to help pro
 
 4-3 Data Collection Form Validator - NEED LINK
 
-4-4 [/Data Guidance](http://project-open-data.github.com/slash-data-guidance/) - The specific guidance for publishing an agency.gov/data page.
+4-4 [/Data Guidance](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
 
 4-5 Example RFP Language - NEED LINK
 
